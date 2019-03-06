@@ -1,0 +1,1454 @@
+	Location	Merrit Badge	week	Rating (Num)	Schedule Pacing
+0	San Francisco	Rowing, Explorer	Week 1	3	Just right
+1	Los Angeles	rowing	Week 1	4	A little too fast
+2	San Francisco	Astrnomy	Week 1	4	Way too slow
+3			Week 2	4	A little too fast
+4	New York City	Rowing, Explorer	Week 1	4	Just right
+5	Redwood City	rowing	Week 1	5	Just right
+6	Los Angeles	rowing	Week 7	5	Just right
+7	San Francisco	rowing	Week 1	5	A little too slow
+8	Santa Clara	rowing	Week 1	5	A little too slow
+9	Santa Clara	rowing	Week 1	5	Just right
+10	Redwood City	rowing	Week 2	5	Just right
+11	Oakland	rowing	Week 2	5	Just right
+12	San Francisco	rowing	Week 2	5	Way too fast
+13	Washington DC	rowing	Week 1	5	Just right
+14	Washington DC	Rowing, Explorer	Week 1	5	A little too slow
+15			Week 3	5	A little too slow
+16	Redwood City	rowing	Week 3	5	Just right
+17	New York City	rowing	Week 1	5	A little too slow
+18	San Francisco	Rowing, Explorer	Week 3	5	Just right
+19	Santa Clara	rowing	Week 3	5	Just right
+20	Los Angeles	Astrnomy	Week 1	6	Just right
+21	Chicago	Rowing, Explorer	Week 1	6	Just right
+22	Chicago	rowing	Week 1	6	A little too slow
+23	Chicago	rowing	Week 1	6	A little too slow
+24	San Francisco	rowing	Week 1	6	A little too fast
+25	San Francisco	rowing	Week 1	6	A little too fast
+26	San Francisco	Rowing, Explorer	Week 1	6	Just right
+27	Santa Clara	rowing	Week 2	6	Just right
+28	San Francisco	Rowing, Explorer	Week 2	6	Just right
+29	San Francisco	rowing	Week 2	6	Way too fast
+30	Santa Clara	rowing	Week 2	6	Just right
+31	Washington DC	rowing	Week 1	6	Way too fast
+32	Redwood City	rowing	Week 3	6	A little too slow
+33			Week 1	6	A little too slow
+34	New York City	Astrnomy	Week 1	6	A little too fast
+35	New York City	rowing	Week 1	6	Just right
+36	Santa Clara	Astrnomy	Week 3	6	Way too slow
+37	Santa Clara	rowing	Week 3	6	Just right
+38	San Francisco	Rowing, Explorer	Week 3	6	Just right
+39	San Francisco	rowing	Week 3	6	Way too fast
+40	San Francisco	Rowing, Explorer	Week 3	6	Just right
+41	San Francisco	rowing	Week 3	6	A little too fast
+42	Oakland	rowing	Week 3	6	A little too slow
+43			Week 1	6	A little too slow
+44	Redwood City	rowing	Week 1	7	A little too slow
+45	Los Angeles	rowing	Week 1	7	A little too fast
+46	Los Angeles	rowing	Week 1	7	Just right
+47	Chicago	rowing	Week 1	7	A little too fast
+48	San Francisco	Computer Programing	Week 1	7	A little too slow
+49	San Francisco	rowing	Week 1	7	A little too fast
+50	San Francisco	rowing	Week 1	7	Just right
+51	San Francisco	rowing	Week 1	7	A little too fast
+52	San Francisco	rowing	Week 1	7	A little too fast
+53	Santa Clara	rowing	Week 1	7	A little too fast
+54	San Francisco	rowing	Week 1	7	A little too fast
+55	San Francisco	Rowing, Explorer	Week 1	7	A little too fast
+56	San Francisco	Astrnomy	Week 1	7	Just right
+57	San Francisco	Rowing, Explorer	Week 1	7	Just right
+58	Santa Clara	rowing	Week 1	7	Just right
+59	San Francisco	Rowing, Explorer	Week 1	7	Just right
+60	San Francisco	Rowing, Explorer	Week 1	7	A little too fast
+61	San Francisco	rowing	Week 1	7	Just right
+62	Redwood City	rowing	Week 2	7	Just right
+63	Chicago	rowing	Week 2	7	A little too slow
+64	Santa Clara	rowing	Week 2	7	Just right
+65	Santa Clara	rowing	Week 2	7	A little too fast
+66	Los Angeles	rowing	Week 2	7	A little too fast
+67	San Francisco	Rowing, Explorer	Week 2	7	Just right
+68	San Francisco	Rowing, Explorer	Week 2	7	Just right
+69	San Francisco	Rowing, Explorer	Week 2	7	Just right
+70	San Francisco	rowing	Week 2	7	A little too fast
+71	San Francisco	rowing	Week 2	7	A little too fast
+72	San Francisco	rowing	Week 2	7	A little too fast
+73	San Francisco	rowing	Week 2	7	A little too fast
+74	San Francisco	Astrnomy	Week 2	7	Just right
+75	Atlanta	Rowing, Explorer	Week 2	7	A little too fast
+76	Washington DC	rowing	Week 1	7	Just right
+77	Oakland	rowing	Week 2	7	A little too slow
+78	Redwood City	rowing	Week 3	7	Just right
+79	Redwood City	rowing	Week 3	7	Just right
+80	Washington DC	rowing	Week 2	7	Just right
+81	New York City	rowing	Week 1	7	Just right
+82	New York City	rowing	Week 1	7	A little too slow
+83	New York City	Astrnomy	Week 1	7	Just right
+84	New York City	Astrnomy	Week 1	7	Just right
+85	New York City	rowing	Week 1	7	Just right
+86	Chicago	rowing	Week 3	7	A little too fast
+87	Chicago	rowing	Week 3	7	A little too fast
+88	Chicago	Rowing, Explorer	Week 3	7	Just right
+89	Santa Clara	rowing	Week 3	7	A little too fast
+90	Santa Clara	rowing	Week 3	7	A little too slow
+91	San Francisco	rowing	Week 3	7	Just right
+92	Santa Clara	rowing	Week 3	7	A little too fast
+93			Week 3	7	Just right
+94	Washington DC	rowing	Week 2	7	Way too fast
+95	New York City	Rowing, Explorer	Week 1	7	Just right
+96	Atlanta	Rowing, Explorer	Week 1	8	Just right
+97	Atlanta	rowing	Week 1	8	Just right
+98	Atlanta	Rowing, Explorer	Week 1	8	Just right
+99	Atlanta	rowing	Week 1	8	A little too slow
+100	Redwood City	rowing	Week 1	8	A little too slow
+101	San Francisco	Rowing, Explorer	Week 1	8	Way too fast
+102	Redwood City	rowing	Week 1	8	A little too slow
+103	Redwood City	rowing	Week 1	8	Just right
+104	Los Angeles	rowing	Week 1	8	A little too fast
+105	Los Angeles	Astrnomy	Week 1	8	A little too fast
+106	Chicago	rowing	Week 1	8	A little too fast
+107	Chicago	rowing	Week 1	8	Just right
+108	Chicago	Rowing, Explorer	Week 1	8	Just right
+109	San Francisco	Computer Programing	Week 1	8	Just right
+110	San Francisco	Computer Programing	Week 1	8	Just right
+111	San Francisco	rowing	Week 1	8	Just right
+112	San Francisco	rowing	Week 1	8	A little too fast
+113	San Francisco	rowing	Week 1	8	Just right
+114	San Francisco	Rowing, Explorer	Week 1	8	A little too slow
+115	Santa Clara	rowing	Week 1	8	Just right
+116	San Francisco	Rowing, Explorer	Week 1	8	Just right
+117	Oakland	rowing	Week 1	8	A little too fast
+118	Santa Clara	Astrnomy	Week 1	8	Just right
+119	Santa Clara	rowing	Week 1	8	Just right
+120	Santa Clara	Astrnomy	Week 1	8	A little too slow
+121	Santa Clara	rowing	Week 1	8	A little too slow
+122	Santa Clara	rowing	Week 1	8	A little too slow
+123	Santa Clara	Astrnomy	Week 1	8	Just right
+124	Santa Clara	Rowing, Explorer	Week 1	8	Just right
+125	Santa Clara	rowing	Week 1	8	Just right
+126	Santa Clara	Rowing, Explorer	Week 1	8	Just right
+127	Santa Clara	Rowing, Explorer	Week 1	8	Just right
+128	Oakland	rowing	Week 1	8	A little too fast
+129	San Francisco	Astrnomy	Week 1	8	Just right
+130	Santa Clara	Astrnomy	Week 1	8	Just right
+131	San Francisco	Astrnomy	Week 1	8	A little too slow
+132	San Francisco	Astrnomy	Week 1	8	A little too slow
+133	Santa Clara	Astrnomy	Week 1	8	Just right
+134	Oakland	rowing	Week 1	8	A little too fast
+135	San Francisco	rowing	Week 1	8	Just right
+136	San Francisco	Astrnomy	Week 1	8	Just right
+137	San Francisco	rowing	Week 1	8	A little too fast
+138	San Francisco	Rowing, Explorer	Week 1	8	Just right
+139	San Francisco	Rowing, Explorer	Week 1	8	A little too slow
+140	Santa Clara	rowing	Week 1	8	A little too fast
+141	Santa Clara	Astrnomy	Week 1	8	A little too slow
+142	Redwood City	rowing	Week 2	8	A little too slow
+143	Redwood City	rowing	Week 2	8	A little too fast
+144	Redwood City	rowing	Week 2	8	A little too fast
+145	Chicago	rowing	Week 2	8	Just right
+146	Chicago	Rowing, Explorer	Week 2	8	A little too fast
+147	Santa Clara	rowing	Week 2	8	A little too fast
+148	Santa Clara	rowing	Week 2	8	A little too fast
+149	Santa Clara	Rowing, Explorer	Week 2	8	Just right
+150	Santa Clara	rowing	Week 2	8	A little too fast
+151	Santa Clara	Astrnomy	Week 2	8	Just right
+152	Santa Clara	rowing	Week 2	8	Just right
+153	Santa Clara	rowing	Week 2	8	Just right
+154	Santa Clara	rowing	Week 2	8	A little too fast
+155	Santa Clara	rowing	Week 2	8	Just right
+156	Santa Clara	Astrnomy	Week 2	8	Just right
+157	San Francisco	Computer Programing	Week 2	8	A little too fast
+158	San Francisco	Computer Programing	Week 2	8	Just right
+159	Los Angeles	rowing	Week 2	8	A little too slow
+160	Los Angeles	rowing	Week 2	8	Just right
+161	Los Angeles	rowing	Week 2	8	A little too fast
+162	San Francisco	Rowing, Explorer	Week 2	8	Just right
+163	Los Angeles	rowing	Week 2	8	Just right
+164	Los Angeles	Astrnomy	Week 2	8	Just right
+165	San Francisco	Astrnomy	Week 2	8	Just right
+166	Santa Clara	Rowing, Explorer	Week 2	8	Just right
+167	San Francisco	Rowing, Explorer	Week 2	8	A little too slow
+168	San Francisco	rowing	Week 2	8	A little too fast
+169			Week 2	8	A little too fast
+170	San Francisco	Rowing, Explorer	Week 2	8	Just right
+171	San Francisco	rowing	Week 2	8	A little too fast
+172	San Francisco	rowing	Week 2	8	Just right
+173	San Francisco	Rowing, Explorer	Week 2	8	Just right
+174	San Francisco	rowing	Week 2	8	Just right
+175	San Francisco	rowing	Week 2	8	Just right
+176	Los Angeles	rowing	Week 2	8	A little too fast
+177	San Francisco	rowing	Week 2	8	Just right
+178	San Francisco	rowing	Week 2	8	Just right
+179	San Francisco	rowing	Week 2	8	Just right
+180	San Francisco	rowing	Week 2	8	Just right
+181	Santa Clara	rowing	Week 2	8	Just right
+182	Atlanta	rowing	Week 2	8	Just right
+183	Washington DC	rowing	Week 1	8	Just right
+184	Washington DC	rowing	Week 1	8	Just right
+185	Washington DC	Rowing, Explorer	Week 1	8	Just right
+186	Washington DC	rowing	Week 1	8	A little too slow
+187	New York City	rowing	Week 1	8	A little too slow
+188	San Francisco	rowing	Week 3	8	Just right
+189	San Francisco	rowing	Week 3	8	A little too fast
+190	San Francisco	rowing	Week 3	8	A little too fast
+191	San Francisco	rowing	Week 3	8	A little too fast
+192	Redwood City	rowing	Week 3	8	Just right
+193	Washington DC	rowing	Week 2	8	A little too fast
+194	Washington DC	Rowing, Explorer	Week 2	8	A little too fast
+195	New York City	rowing	Week 1	8	A little too slow
+196	New York City	rowing	Week 1	8	Just right
+197	New York City	rowing	Week 1	8	A little too slow
+198	New York City	Astrnomy, Explorer	Week 1	8	Just right
+199	New York City	Astrnomy	Week 1	8	A little too slow
+200	New York City	rowing	Week 1	8	Just right
+201	New York City	rowing	Week 1	8	A little too fast
+202	New York City	Astrnomy	Week 1	8	A little too fast
+203	New York City	Astrnomy	Week 1	8	A little too fast
+204	Atlanta	rowing	Week 3	8	Just right
+205			Week 1	8	Just right
+206	Atlanta	Rowing, Explorer	Week 3	8	Just right
+207	New York City	rowing	Week 1	8	Just right
+208	New York City	rowing	Week 1	8	Just right
+209	Atlanta	Rowing, Explorer	Week 3	8	Just right
+210	New York City	rowing	Week 1	8	Just right
+211	New York City	Astrnomy, Explorer	Week 1	8	Just right
+212	New York City	Astrnomy	Week 1	8	Just right
+213	New York City	rowing	Week 1	8	Just right
+214	San Francisco	rowing	Week 3	8	A little too fast
+215	Chicago	rowing	Week 3	8	A little too fast
+216	Chicago	rowing	Week 3	8	Just right
+217	Chicago	rowing	Week 3	8	Just right
+218	Chicago	Rowing, Explorer	Week 3	8	Just right
+219	San Francisco	Computer Programing	Week 3	8	A little too slow
+220	Santa Clara	rowing	Week 3	8	A little too fast
+221	Santa Clara	rowing	Week 3	8	Just right
+222	Santa Clara	Astrnomy	Week 3	8	Just right
+223	Santa Clara	rowing	Week 3	8	A little too fast
+224	Santa Clara	Astrnomy	Week 3	8	A little too slow
+225	Santa Clara	Rowing, Explorer	Week 3	8	Just right
+226	Santa Clara	Astrnomy	Week 3	8	A little too slow
+227	Los Angeles	rowing	Week 3	8	Just right
+228	Los Angeles	rowing	Week 3	8	Just right
+229	Los Angeles	Astrnomy	Week 3	8	A little too fast
+230	Los Angeles	rowing	Week 3	8	A little too fast
+231	Los Angeles	rowing	Week 3	8	A little too fast
+232			Week 3	8	Just right
+233	San Francisco	rowing	Week 3	8	Just right
+234	Santa Clara	rowing	Week 3	8	A little too fast
+235	San Francisco	Rowing, Explorer	Week 3	8	Just right
+236	Santa Clara	Astrnomy	Week 3	8	Just right
+237	San Francisco	Rowing, Explorer	Week 3	8	Just right
+238	San Francisco	Astrnomy	Week 3	8	Just right
+239	San Francisco	Rowing, Explorer	Week 3	8	Just right
+240	San Francisco	Rowing, Explorer	Week 3	8	Just right
+241	San Francisco	Rowing, Explorer	Week 3	8	Just right
+242	Washington DC	rowing	Week 2	8	Just right
+243	San Francisco	rowing	Week 3	8	A little too fast
+244	San Francisco	Rowing, Explorer	Week 3	8	Just right
+245	Washington DC	rowing	Week 2	8	A little too fast
+246	Washington DC	rowing	Week 2	8	Just right
+247	San Francisco	Astrnomy	Week 3	8	A little too slow
+248	Oakland	rowing	Week 3	8	Just right
+249	New York City	rowing	Week 1	8	Just right
+250	New York City	rowing	Week 1	8	Just right
+251	New York City	rowing	Week 1	8	A little too fast
+252	New York City	rowing	Week 1	8	Just right
+253	New York City	Rowing, Explorer	Week 1	8	A little too fast
+254	New York City	rowing	Week 1	8	Just right
+255	New York City	rowing	Week 1	8	Just right
+256	Atlanta	Rowing, Explorer	Week 1	9	Just right
+257	Redwood City	rowing	Week 1	9	Just right
+258	Los Angeles	Astrnomy	Week 1	9	Just right
+259	Los Angeles	rowing	Week 1	9	Just right
+260	Los Angeles	rowing	Week 1	9	A little too fast
+261	Los Angeles	Astrnomy	Week 1	9	Just right
+262	San Francisco	Computer Programing	Week 1	9	Just right
+263	San Francisco	rowing	Week 1	9	Just right
+264	San Francisco	rowing	Week 1	9	Just right
+265	San Francisco	rowing	Week 1	9	Just right
+266	San Francisco	rowing	Week 1	9	Just right
+267	San Francisco	rowing	Week 1	9	Just right
+268	Santa Clara	Astrnomy, Explorer	Week 1	9	Just right
+269	Santa Clara	rowing	Week 1	9	A little too fast
+270	Santa Clara	rowing	Week 1	9	A little too fast
+271	Santa Clara	Astrnomy, Explorer	Week 1	9	Just right
+272	Santa Clara	rowing	Week 1	9	A little too fast
+273	Santa Clara	rowing	Week 1	9	Just right
+274	Santa Clara	Astrnomy	Week 1	9	Just right
+275	San Francisco	Astrnomy	Week 1	9	A little too fast
+276	Santa Clara	Astrnomy	Week 1	9	Just right
+277	San Francisco	rowing	Week 1	9	A little too fast
+278	San Francisco	Astrnomy	Week 1	9	A little too fast
+279	San Francisco	Rowing, Explorer	Week 1	9	Just right
+280	San Francisco	rowing	Week 1	9	Just right
+281	San Francisco	Rowing, Explorer	Week 1	9	Just right
+282	San Francisco	rowing	Week 1	9	Just right
+283	Redwood City	rowing	Week 2	9	Just right
+284	Redwood City	rowing	Week 2	9	Just right
+285	Redwood City	rowing	Week 2	9	Just right
+286	Redwood City	rowing	Week 2	9	A little too fast
+287	Chicago	rowing	Week 2	9	A little too fast
+288	Chicago	rowing	Week 2	9	Just right
+289	Chicago	Rowing, Explorer	Week 2	9	A little too fast
+290	Santa Clara	Astrnomy	Week 2	9	Way too slow
+291	Santa Clara	Astrnomy	Week 2	9	A little too slow
+292	Santa Clara	Rowing, Explorer	Week 2	9	Just right
+293	Santa Clara	Astrnomy	Week 2	9	Just right
+294	Santa Clara	Astrnomy	Week 2	9	Just right
+295	Santa Clara	Astrnomy	Week 2	9	A little too slow
+296	Santa Clara	Astrnomy, Explorer	Week 2	9	Just right
+297	Santa Clara	Astrnomy, Explorer	Week 2	9	A little too fast
+298	Santa Clara	rowing	Week 2	9	A little too fast
+299	San Francisco	Computer Programing	Week 2	9	A little too slow
+300	San Francisco	Computer Programing	Week 2	9	Just right
+301	San Francisco	Computer Programing	Week 2	9	Just right
+302	Los Angeles	rowing	Week 2	9	A little too fast
+303	Los Angeles	Astrnomy	Week 2	9	Just right
+304	Los Angeles	rowing	Week 2	9	Just right
+305	Los Angeles	Astrnomy	Week 2	9	A little too slow
+306	Los Angeles	rowing	Week 2	9	A little too fast
+307	Santa Clara	rowing	Week 2	9	Just right
+308	Los Angeles	Astrnomy	Week 2	9	Just right
+309	Oakland	rowing	Week 2	9	Just right
+310	San Francisco	Rowing, Explorer	Week 2	9	A little too slow
+311	San Francisco	rowing	Week 2	9	Just right
+312			Week 2	9	A little too fast
+313	San Francisco	rowing	Week 2	9	Just right
+314	San Francisco	Astrnomy	Week 2	9	Just right
+315	San Francisco	rowing	Week 2	9	Just right
+316	San Francisco	Rowing, Explorer	Week 2	9	A little too slow
+317	San Francisco	rowing	Week 2	9	Just right
+318	San Francisco	rowing	Week 2	9	A little too fast
+319	San Francisco	Astrnomy	Week 2	9	Just right
+320	Atlanta	Rowing, Explorer	Week 2	9	Just right
+321	Santa Clara	rowing	Week 2	9	Just right
+322	San Francisco	Astrnomy	Week 2	9	A little too slow
+323	Atlanta	Rowing, Explorer	Week 2	9	A little too fast
+324	Washington DC	rowing	Week 1	9	Just right
+325	Washington DC	Rowing, Explorer	Week 1	9	Just right
+326	San Francisco	Astrnomy	Week 2	9	Just right
+327	San Francisco	Rowing, Explorer	Week 2	9	Just right
+328	San Francisco	Astrnomy	Week 2	9	A little too slow
+329	San Francisco	rowing	Week 3	9	Just right
+330	San Francisco	rowing	Week 3	9	Just right
+331	Redwood City	rowing	Week 3	9	Just right
+332	Redwood City	rowing	Week 3	9	A little too fast
+333	Redwood City	rowing	Week 3	9	Just right
+334	Washington DC	Rowing, Explorer	Week 2	9	Just right
+335	Washington DC	rowing	Week 2	9	A little too slow
+336	Redwood City	rowing	Week 3	9	Just right
+337	New York City	Astrnomy	Week 1	9	Just right
+338	Atlanta	Rowing, Explorer	Week 3	9	Just right
+339	San Francisco	Computer Programing	Week 3	9	Just right
+340	Chicago	rowing	Week 3	9	Just right
+341	Chicago	Rowing, Explorer	Week 3	9	Just right
+342	Santa Clara	rowing	Week 3	9	Just right
+343	Santa Clara	rowing	Week 3	9	Just right
+344	Santa Clara	Astrnomy	Week 3	9	Just right
+345	Santa Clara	Rowing, Explorer	Week 3	9	A little too fast
+346	Santa Clara	Rowing, Explorer	Week 3	9	Just right
+347	Santa Clara	rowing	Week 3	9	Just right
+348	Los Angeles	rowing	Week 3	9	A little too slow
+349	Los Angeles	rowing	Week 3	9	Just right
+350	Santa Clara	Astrnomy, Explorer	Week 3	9	Just right
+351	Los Angeles	Astrnomy	Week 3	9	Just right
+352	Santa Clara	Astrnomy, Explorer	Week 3	9	A little too fast
+353	Santa Clara	rowing	Week 3	9	Just right
+354	Santa Clara	rowing	Week 3	9	Just right
+355	San Francisco	Astrnomy	Week 3	9	Just right
+356	San Francisco	Rowing, Explorer	Week 3	9	Just right
+357	San Francisco	Rowing, Explorer	Week 3	9	A little too fast
+358	San Francisco	Astrnomy	Week 3	9	Just right
+359	San Francisco	Computer Programing	Week 3	9	Just right
+360	San Francisco	Computer Programing	Week 3	9	A little too fast
+361	San Francisco	rowing	Week 3	9	Just right
+362	San Francisco	rowing	Week 3	9	Just right
+363	San Francisco	rowing	Week 3	9	Just right
+364	San Francisco	Astrnomy	Week 3	9	Just right
+365	San Francisco	rowing	Week 3	9	A little too fast
+366	Oakland	rowing	Week 3	9	Just right
+367	Oakland	rowing	Week 3	9	Just right
+368	San Francisco	Rowing, Explorer	Week 3	9	A little too fast
+369	Santa Clara	Astrnomy, Explorer	Week 3	9	Just right
+370	San Francisco	Astrnomy	Week 3	9	Just right
+371	New York City	rowing	Week 1	9	Just right
+372	New York City	rowing	Week 1	9	Just right
+373	New York City	rowing	Week 1	9	A little too slow
+374	New York City	rowing	Week 1	9	Just right
+375	New York City	Astrnomy, Explorer	Week 1	9	Just right
+376	Atlanta	rowing	Week 1	10	Just right
+377	Atlanta	Rowing, Explorer	Week 1	10	Just right
+378	Redwood City	rowing	Week 1	10	Just right
+379	Redwood City	rowing	Week 1	10	Just right
+380	Redwood City	rowing	Week 1	10	Just right
+381	Redwood City	rowing	Week 1	10	A little too fast
+382	Los Angeles	rowing	Week 1	10	Just right
+383	Chicago	rowing	Week 1	10	Just right
+384	Chicago	Rowing, Explorer	Week 1	10	Just right
+385	Chicago	rowing	Week 1	10	A little too fast
+386	San Francisco	Computer Programing	Week 1	10	Just right
+387	San Francisco	Computer Programing	Week 1	10	A little too slow
+388	San Francisco	Computer Programing	Week 1	10	A little too fast
+389	San Francisco	Computer Programing	Week 1	10	Just right
+390	San Francisco	Computer Programing	Week 1	10	Just right
+391	San Francisco	Computer Programing	Week 1	10	Just right
+392	San Francisco	rowing	Week 1	10	Just right
+393	San Francisco	rowing	Week 1	10	Just right
+394	San Francisco	rowing	Week 1	10	Just right
+395	San Francisco	rowing	Week 1	10	Just right
+396	Oakland	Rowing, Explorer	Week 1	10	Just right
+397	Santa Clara	Rowing, Explorer	Week 1	10	A little too fast
+398	San Francisco	Astrnomy	Week 1	10	Just right
+399	Santa Clara	rowing	Week 1	10	A little too fast
+400	San Francisco	Astrnomy	Week 1	10	Just right
+401	San Francisco	Astrnomy	Week 1	10	Just right
+402	San Francisco	Astrnomy	Week 1	10	A little too fast
+403	San Francisco	Astrnomy	Week 1	10	A little too slow
+404	San Francisco	Astrnomy	Week 1	10	Just right
+405	Oakland	rowing	Week 1	10	Just right
+406	Oakland	rowing	Week 1	10	A little too slow
+407	Los Angeles	rowing	Week 1	10	Just right
+408	Los Angeles	rowing	Week 1	10	Just right
+409	Los Angeles	rowing	Week 1	10	Just right
+410	Redwood City	rowing	Week 2	10	Just right
+411	Chicago	rowing	Week 2	10	A little too fast
+412	Santa Clara	rowing	Week 2	10	A little too fast
+413	San Francisco	Computer Programing	Week 2	10	A little too slow
+414	San Francisco	Computer Programing	Week 2	10	A little too fast
+415	San Francisco	Computer Programing	Week 2	10	Just right
+416	San Francisco	Computer Programing	Week 2	10	Just right
+417	San Francisco	Computer Programing	Week 2	10	Just right
+418	Los Angeles	rowing	Week 2	10	A little too slow
+419	Los Angeles	rowing	Week 2	10	Just right
+420	Los Angeles	rowing	Week 2	10	Just right
+421	Santa Clara	Rowing, Explorer	Week 2	10	A little too fast
+422	Atlanta	rowing	Week 2	10	Just right
+423	San Francisco	rowing	Week 2	10	Just right
+424	San Francisco	Rowing, Explorer	Week 2	10	A little too fast
+425	San Francisco	rowing	Week 2	10	A little too fast
+426	Chicago	rowing	Week 2	10	Just right
+427	San Francisco	Astrnomy	Week 2	10	Just right
+428	Atlanta	rowing	Week 2	10	Just right
+429	Atlanta	Rowing, Explorer	Week 2	10	A little too fast
+430	Washington DC	rowing	Week 1	10	Just right
+431	Washington DC	Rowing, Explorer	Week 1	10	Just right
+432	Washington DC	rowing	Week 1	10	Just right
+433	Oakland	rowing	Week 2	10	A little too fast
+434	Redwood City	rowing	Week 3	10	Just right
+435	Washington DC	Rowing, Explorer	Week 2	10	Just right
+436	New York City	rowing	Week 1	10	A little too fast
+437	San Francisco	Computer Programing	Week 3	10	Just right
+438	Atlanta	rowing	Week 3	10	Just right
+439			Week 1	10	Just right
+440	New York City	rowing	Week 1	10	Just right
+441	New York City	rowing	Week 1	10	Just right
+442	Atlanta	rowing	Week 3	10	Just right
+443	Atlanta	Rowing, Explorer	Week 3	10	Just right
+444	San Francisco	Computer Programing	Week 3	10	A little too fast
+445	Atlanta	rowing	Week 3	10	Just right
+446	Chicago	rowing	Week 3	10	A little too fast
+447	Chicago	rowing	Week 3	10	Just right
+448	Chicago	rowing	Week 3	10	Just right
+449	San Francisco	Computer Programing	Week 3	10	Just right
+450	San Francisco	Computer Programing	Week 3	10	Just right
+451	Santa Clara	rowing	Week 3	10	Just right
+452	Los Angeles	Astrnomy	Week 3	10	Just right
+453	Los Angeles	rowing	Week 3	10	Just right
+454	Los Angeles	rowing	Week 3	10	Just right
+455	Los Angeles	rowing	Week 3	10	Just right
+456	Los Angeles	Astrnomy	Week 3	10	Just right
+457	Los Angeles	rowing	Week 3	10	Just right
+458	Los Angeles	rowing	Week 3	10	Just right
+459	San Francisco	Rowing, Explorer	Week 3	10	A little too fast
+460	Los Angeles	rowing	Week 3	10	Just right
+461	San Francisco	Astrnomy	Week 3	10	Just right
+462	San Francisco	rowing	Week 3	10	Just right
+463	San Francisco	Astrnomy	Week 3	10	Just right
+464	San Francisco	rowing	Week 3	10	Just right
+465	San Francisco	rowing	Week 3	10	Just right
+466	San Francisco	Astrnomy	Week 3	10	A little too fast
+467	San Francisco	Rowing, Explorer	Week 3	10	Just right
+468	San Francisco	rowing	Week 3	10	Just right
+469	San Francisco	rowing	Week 3	10	Just right
+470	Washington DC	rowing	Week 2	10	Just right
+471	Oakland	rowing	Week 3	10	Just right
+472	Santa Clara	rowing	Week 3	10	Just right
+473	Santa Clara	rowing	Week 3	10	A little too fast
+474	New York City	rowing	Week 1	10	Just right
+475	New York City	Rowing, Explorer	Week 1	10	Just right
+476	New York City	Rowing, Explorer	Week 1	10	Just right
+477	New York City	Rowing, Explorer	Week 1	10	Just right
+478	Los Angeles	rowing	Week 3	9	A little too fast
+479	New York City	rowing	Week 1	7	Just right
+480	New York City	rowing	Week 1	7	Just right
+481	Santa Clara	Rowing, Explorer	Week 3	8	Just right
+482	Oakland	Rowing, Explorer	Week 3	7	Just right
+483	Oakland	rowing	Week 3	10	A little too fast
+484	Santa Clara	Astrnomy	Week 3	7	Just right
+485	San Francisco	rowing	Week 3	9	Just right
+486	Oakland	rowing	Week 3	8	A little too fast
+487	San Francisco	Astrnomy	Week 3	8	Just right
+488	San Francisco	rowing	Week 3	7	A little too fast
+489	San Francisco	Rowing, Explorer	Week 3	7	Just right
+490	San Francisco	Astrnomy	Week 3	8	Just right
+491	San Francisco	Astrnomy	Week 3	10	Just right
+492	San Francisco	Astrnomy	Week 3	10	A little too slow
+493	San Francisco	Astrnomy	Week 3	10	A little too slow
+494	Oakland	Rowing, Explorer	Week 3	10	Just right
+495	San Francisco	rowing	Week 3	10	Just right
+496	New York City	Astrnomy	Week 1	9	Just right
+497	San Francisco	rowing	Week 3	8	A little too fast
+498	San Francisco	rowing	Week 3	9	Just right
+499	San Francisco	rowing	Week 3	8	Just right
+500	San Francisco	Astrnomy	Week 3	9	A little too fast
+501	San Francisco	rowing	Week 3	10	Just right
+502	Oakland	rowing	Week 3	9	A little too fast
+503	San Francisco	Astrnomy	Week 3	10	Just right
+504	San Francisco	Rowing, Explorer	Week 3	7	Just right
+505	Santa Clara	Astrnomy	Week 3	10	Just right
+506	New York City	Rowing, Explorer	Week 1	8	Just right
+507	New York City	Astrnomy, Explorer	Week 1	10	Just right
+508			Week 2	7	A little too fast
+509	Washington DC	rowing	Week 2	10	A little too fast
+510			Week 1	7	Just right
+511	Washington DC	Rowing, Explorer	Week 2	6	Just right
+512	San Francisco	Computer Programing	Week 3	8	Just right
+513	New York City	rowing	Week 1	7	Just right
+514	New York City	rowing	Week 1	8	Just right
+515	San Francisco	Computer Programing	Week 3	10	Just right
+516	Santa Clara	rowing	Week 3	8	Just right
+517	San Francisco	Astrnomy	Week 2	9	Just right
+518	New York City	rowing	Week 1	8	Just right
+519	San Francisco	rowing	Week 3	9	Just right
+520	Hong Kong	Rowing, Explorer	Week 1	7	A little too fast
+521	Hong Kong	Rowing, Explorer	Week 1	8	Just right
+522	Hong Kong	Rowing, Explorer	Week 1	7	A little too fast
+523	Hong Kong	Rowing, Explorer	Week 1	5	Just right
+524	Hong Kong	rowing	Week 1	9	A little too slow
+525	Hong Kong	Rowing, Explorer	Week 1	7	Just right
+526	Santa Clara	rowing	Week 4	8	Just right
+527	Santa Clara	Rowing, Explorer	Week 4	8	Just right
+528	Santa Clara	Rowing, Explorer	Week 4	8	Just right
+529	Santa Clara	rowing	Week 4	9	Just right
+530	Santa Clara	rowing	Week 4	7	Just right
+531	Santa Clara	rowing	Week 4	5	Just right
+532	Santa Clara	rowing	Week 4	9	Just right
+533	Santa Clara	rowing	Week 4	7	A little too fast
+534	Santa Clara	rowing	Week 4	7	Just right
+535	Santa Clara	rowing	Week 4	10	Just right
+536	Santa Clara	Astrnomy, Explorer	Week 4	10	Just right
+537	Redwood City	rowing	Week 4	9	Just right
+538	Redwood City	rowing	Week 4	10	Just right
+539	Redwood City	rowing	Week 4	7	Just right
+540	Redwood City	rowing	Week 4	9	Just right
+541	Redwood City	rowing	Week 4	10	Just right
+542	Redwood City	rowing	Week 4	8	Just right
+543	Redwood City	rowing	Week 4	9	Just right
+544	Washington DC	rowing	Week 3	8	Just right
+545	Washington DC	Rowing, Explorer	Week 3	9	A little too fast
+546	Washington DC	rowing	Week 3	7	A little too fast
+547	Washington DC	rowing	Week 3	9	Just right
+548			Week 2	10	A little too fast
+549	New York City	rowing	Week 2	10	Just right
+550			Week 2	4	A little too fast
+551	New York City	rowing	Week 2	7	A little too fast
+552	New York City	rowing	Week 2	8	Just right
+553	New York City	rowing	Week 2	8	Just right
+554	New York City	rowing	Week 2	5	Just right
+555	New York City	rowing	Week 2	8	A little too fast
+556			Week 2	8	Just right
+557	New York City	rowing	Week 2	9	A little too slow
+558	New York City	rowing	Week 2	10	Just right
+559	New York City	rowing	Week 2	8	A little too slow
+560	New York City	rowing	Week 2	9	A little too slow
+561	New York City	rowing	Week 2	6	Just right
+562	New York City	rowing	Week 2	8	Just right
+563	New York City	rowing	Week 2	9	A little too slow
+564	New York City	Astrnomy, Explorer	Week 2	9	Just right
+565	New York City	rowing	Week 2	8	Just right
+566	New York City	Astrnomy	Week 2	9	Just right
+567	New York City	Astrnomy	Week 2	9	Just right
+568	New York City	Astrnomy	Week 2	10	Just right
+569			Week 2	6	A little too fast
+570	New York City	rowing	Week 2	6	Just right
+571	New York City	rowing	Week 2	9	Just right
+572	New York City	rowing	Week 2	9	Just right
+573	New York City	Astrnomy	Week 2	9	Just right
+574	New York City	Astrnomy, Explorer	Week 2	10	Just right
+575	New York City	Rowing, Explorer	Week 2	7	Just right
+576	New York City	Rowing, Explorer	Week 2	10	Just right
+577			Week 2	0	Way too fast
+578	New York City	Astrnomy	Week 2	8	Just right
+579	New York City	Astrnomy	Week 2	10	Just right
+580	New York City	rowing	Week 2	9	Just right
+581	New York City	Rowing, Explorer	Week 2	10	Just right
+582	New York City	Rowing, Explorer	Week 2	10	Just right
+583	New York City	rowing	Week 2	10	A little too fast
+584	New York City	rowing	Week 2	9	Just right
+585	New York City	Astrnomy, Explorer	Week 2	10	Just right
+586	New York City	Rowing, Explorer	Week 2	9	Just right
+587	New York City	Astrnomy	Week 2	7	Just right
+588	New York City	Astrnomy	Week 2	9	Just right
+589	New York City	Astrnomy, Explorer	Week 2	7	Just right
+590	New York City	Rowing, Explorer	Week 2	3	Way too fast
+591	New York City	rowing	Week 2	5	Just right
+592	New York City	Rowing, Explorer	Week 2	8	Just right
+593	Atlanta	rowing	Week 4	9	Just right
+594	Atlanta	rowing	Week 4	9	Just right
+595			Week 4	10	Just right
+596	Redwood City	rowing	Week 4	9	Just right
+597	Atlanta	Rowing, Explorer	Week 4	10	A little too fast
+598	Atlanta	Rowing, Explorer	Week 4	9	Just right
+599	New York City	rowing	Week 2	8	Just right
+600	Atlanta	Rowing, Explorer	Week 4	10	Just right
+601	Redwood City	rowing	Week 4	8	Just right
+602	Chicago	rowing	Week 4	10	A little too fast
+603	Chicago	rowing	Week 4	8	Just right
+604	Chicago	rowing	Week 4	9	Just right
+605	Chicago	rowing	Week 4	9	A little too fast
+606	Chicago	rowing	Week 4	9	A little too fast
+607	Chicago	rowing	Week 4	8	Just right
+608	Chicago	Rowing, Explorer	Week 4	7	Just right
+609	Oakland	rowing	Week 4	7	A little too fast
+610	Los Angeles	Astrnomy	Week 4	10	Just right
+611	Los Angeles	rowing	Week 4	8	A little too fast
+612	Los Angeles	Astrnomy	Week 4	10	Just right
+613	Oakland	rowing	Week 4	9	Just right
+614	Los Angeles	Astrnomy	Week 4	9	Just right
+615	Los Angeles	Astrnomy	Week 4	10	Just right
+616	Los Angeles	rowing	Week 4	8	A little too slow
+617	Santa Clara	Rowing, Explorer	Week 4	8	Just right
+618	Santa Clara	rowing	Week 4	9	Just right
+619	Santa Clara	rowing	Week 4	9	Just right
+620	Santa Clara	rowing	Week 4	9	Just right
+621	Los Angeles	rowing	Week 4	10	Just right
+622	Los Angeles	rowing	Week 4	10	Just right
+623	Los Angeles	rowing	Week 4	9	Just right
+624	San Francisco	rowing	Week 4	10	Just right
+625	San Francisco	rowing	Week 4	8	Just right
+626	San Francisco	Rowing, Explorer	Week 4	8	A little too fast
+627	San Francisco	Astrnomy	Week 4	8	Just right
+628	San Francisco	Astrnomy	Week 4	9	Just right
+629	San Francisco	Astrnomy	Week 4	10	Just right
+630	San Francisco	rowing	Week 4	6	Just right
+631	San Francisco	Astrnomy	Week 4	8	Just right
+632	San Francisco	rowing	Week 4	9	Just right
+633	San Francisco	Astrnomy	Week 4	9	A little too slow
+634	San Francisco	rowing	Week 4	8	A little too fast
+635	San Francisco	rowing	Week 4	9	Just right
+636	San Francisco	rowing	Week 4	7	A little too fast
+637	San Francisco	rowing	Week 4	9	Just right
+638	Santa Clara	Astrnomy	Week 4	8	Just right
+639	San Francisco	Astrnomy	Week 4	9	Just right
+640	San Francisco	Rowing, Explorer	Week 4	7	Just right
+641	San Francisco	Computer Programing	Week 4	10	Just right
+642	San Francisco	Rowing, Explorer	Week 4	8	Way too fast
+643	San Francisco	Computer Programing	Week 4	8	Just right
+644	Santa Clara	rowing	Week 4	8	Just right
+645	San Francisco	Computer Programing	Week 4	6	A little too fast
+646	San Francisco	rowing	Week 4	9	Just right
+647	San Francisco	Rowing, Explorer	Week 4	7	Just right
+648	San Francisco	rowing	Week 4	3	Just right
+649	San Francisco	Computer Programing	Week 4	10	A little too fast
+650	San Francisco	Computer Programing	Week 4	4	Just right
+651	Santa Clara	Astrnomy, Explorer	Week 4	9	A little too fast
+652	San Francisco	Rowing, Explorer	Week 4	8	Just right
+653	San Francisco	Computer Programing	Week 4	9	Just right
+654	San Francisco	Computer Programing	Week 4	8	Just right
+655	San Francisco	rowing	Week 4	7	Just right
+656	Santa Clara	Astrnomy	Week 4	8	Just right
+657	Santa Clara	rowing	Week 4	10	Just right
+658	Santa Clara	Astrnomy	Week 4	7	Just right
+659	San Francisco	Rowing, Explorer	Week 4	9	A little too slow
+660	San Francisco	Astrnomy	Week 4	8	A little too fast
+661	San Francisco	Rowing, Explorer	Week 4	10	Just right
+662	San Francisco	rowing	Week 4	6	A little too fast
+663	Los Angeles	rowing	Week 4	10	Just right
+664	San Francisco	Rowing, Explorer	Week 4	8	Way too fast
+665	Santa Clara	Astrnomy	Week 4	8	Just right
+666	San Francisco	Astrnomy	Week 4	10	Just right
+667	San Francisco	Rowing, Explorer	Week 4	7	Just right
+668	Santa Clara	Astrnomy	Week 4	6	A little too slow
+669	San Francisco	Astrnomy	Week 4	9	Just right
+670	San Francisco	Computer Programing	Week 4	9	Just right
+671	San Francisco	rowing	Week 4	8	A little too fast
+672	Santa Clara	Astrnomy	Week 4	9	Just right
+673	San Francisco	rowing	Week 4	5	Just right
+674	San Francisco	Computer Programing	Week 4	10	Just right
+675	San Francisco	Computer Programing	Week 4	7	A little too fast
+676	San Francisco	rowing	Week 4	8	Just right
+677	Los Angeles	rowing	Week 4	9	Just right
+678	San Francisco	Rowing, Explorer	Week 4	3	Just right
+679	San Francisco	rowing	Week 4	9	Just right
+680	Chicago	Rowing, Explorer	Week 4	9	A little too fast
+681	Oakland	Rowing, Explorer	Week 4	7	A little too fast
+682	San Francisco	Rowing, Explorer	Week 4	4	Just right
+683	Los Angeles	rowing	Week 4	9	A little too fast
+684	Los Angeles	rowing	Week 4	8	Just right
+685	Washington DC	rowing	Week 3	10	Just right
+686	San Francisco	rowing	Week 4	10	Just right
+687	Santa Clara	rowing	Week 4	8	Just right
+688	New York City	rowing	Week 2	8	A little too fast
+689	San Francisco	Astrnomy	Week 4	10	Just right
+690	San Francisco	Rowing, Explorer	Week 4	8	Just right
+691	Oakland	rowing	Week 4	9	A little too slow
+692	San Francisco	rowing	Week 4	10	Just right
+693	San Francisco	Rowing, Explorer	Week 4	10	Just right
+694	Oakland	rowing	Week 4	7	A little too slow
+695	Chicago	rowing	Week 4	10	Just right
+696	Oakland	rowing	Week 4	8	Just right
+697	New York City	rowing	Week 2	9	Just right
+698	New York City	rowing	Week 2	8	A little too fast
+699	New York City	rowing	Week 2	7	Just right
+700	New York City	rowing	Week 2	10	Just right
+701	New York City	rowing	Week 2	8	Just right
+702	New York City	Rowing, Explorer	Week 2	10	Just right
+703	New York City	rowing	Week 2	7	Just right
+704			Week 2	7	A little too fast
+705	Santa Clara	rowing	Week 4	8	Just right
+706	Santa Clara	rowing	Week 4	8	Just right
+707	Santa Clara	rowing	Week 4	7	Just right
+708	Santa Clara	Astrnomy	Week 4	9	Just right
+709	Santa Clara	Astrnomy	Week 4	10	Just right
+710	Redwood City	rowing	Week 4	7	Just right
+711	Oakland	rowing	Week 4	9	A little too fast
+712	Santa Clara	Astrnomy, Explorer	Week 4	7	Just right
+713	San Francisco	Astrnomy	Week 4	10	Just right
+714	San Francisco	Astrnomy	Week 4	9	Just right
+715	San Francisco	rowing	Week 4	6	A little too fast
+716	New York City	rowing	Week 2	9	Just right
+717	New York City	rowing	Week 3	10	A little too fast
+718	New York City	rowing	Week 2	8	Just right
+719	New York City	rowing	Week 2	8	Just right
+720	New York City	Astrnomy	Week 2	8	A little too slow
+721	San Francisco	rowing	Week 4	5	A little too fast
+722	Oakland	Rowing, Explorer	Week 4	10	Just right
+723	San Francisco	rowing	Week 4	8	Just right
+724	New York City	rowing	Week 2	10	Just right
+725	San Francisco	rowing	Week 4	8	Just right
+726	San Francisco	rowing	Week 4	9	Just right
+727	Hong Kong	Rowing, Explorer	Week 2	6	A little too slow
+728			Week 1	9	A little too fast
+729	Hong Kong	Rowing, Explorer	Week 2	8	A little too fast
+730	Beijing	rowing	Week 1	10	Just right
+731	Beijing	rowing	Week 1	9	A little too slow
+732	Beijing	rowing	Week 1	9	Just right
+733	Beijing	Rowing, Explorer	Week 1	10	Just right
+734	Beijing	rowing	Week 1	9	A little too fast
+735	Hong Kong	Rowing, Explorer	Week 2	8	A little too fast
+736	Beijing	rowing	Week 1	8	Just right
+737	Beijing	rowing	Week 1	9	Just right
+738	Beijing	rowing	Week 1	8	A little too slow
+739	Beijing	rowing	Week 1	9	A little too fast
+740	Beijing	rowing	Week 1	9	Way too fast
+741	Beijing	rowing	Week 1	10	A little too fast
+742	Beijing	rowing	Week 1	7	Just right
+743	Beijing	rowing	Week 1	10	Just right
+744	Beijing	rowing	Week 1	10	Just right
+745	Beijing	rowing	Week 1	7	Just right
+746	Beijing	rowing	Week 1	10	A little too fast
+747	Beijing	rowing	Week 1	8	A little too fast
+748	Beijing	rowing	Week 1	8	Just right
+749	Beijing	rowing	Week 1	9	Just right
+750	Beijing	rowing	Week 1	10	Way too fast
+751	Beijing	rowing	Week 1	9	Just right
+752	Hong Kong	Rowing, Explorer	Week 2	6	A little too fast
+753	Beijing	rowing	Week 1	9	Just right
+754	Beijing	rowing	Week 1	9	Just right
+755	Beijing	rowing	Week 1	9	Just right
+756	Beijing	rowing	Week 1	10	A little too slow
+757	Beijing	rowing	Week 1	10	A little too fast
+758	Beijing	rowing	Week 1	10	Just right
+759	Beijing	rowing	Week 1	9	A little too fast
+760	Beijing	rowing	Week 1	7	Just right
+761	Beijing	rowing	Week 1	10	Just right
+762	Beijing	rowing	Week 1	9	A little too fast
+763	Beijing	rowing	Week 1	8	A little too fast
+764	Beijing	rowing	Week 1	9	Just right
+765	Beijing	rowing	Week 1	10	Just right
+766	Beijing	rowing	Week 1	7	A little too fast
+767	Beijing	rowing	Week 1	9	A little too slow
+768	Beijing	rowing	Week 1	7	A little too slow
+769	Hong Kong	Rowing, Explorer	Week 2	8	A little too fast
+770	Beijing	rowing	Week 2	10	A little too fast
+771	Redwood City	rowing	Week 5	7	Just right
+772	San Francisco	Computer Programing	Week 5	10	Just right
+773	San Francisco	Computer Programing	Week 5	10	Just right
+774	Redwood City	rowing	Week 5	10	Just right
+775	Redwood City	rowing	Week 5	10	Just right
+776	Redwood City	rowing	Week 5	7	Just right
+777	Redwood City	rowing	Week 5	8	Just right
+778	Redwood City	rowing	Week 5	8	Just right
+779	Redwood City	rowing	Week 5	10	Just right
+780	Oakland	rowing	Week 5	10	Just right
+781	Washington DC	Rowing, Explorer	Week 4	9	A little too fast
+782	Washington DC	Rowing, Explorer	Week 4	9	Just right
+783	Atlanta	rowing	Week 5	9	Just right
+784	Redwood City	rowing	Week 5	9	Just right
+785	New York City	rowing	Week 3	10	Just right
+786	New York City	Astrnomy	Week 3	9	Just right
+787	New York City	Rowing, Explorer	Week 3	10	Just right
+788	New York City	Astrnomy	Week 3	8	Just right
+789	New York City	rowing	Week 3	8	Just right
+790	New York City	Astrnomy, Explorer	Week 3	9	Just right
+791	New York City	rowing	Week 3	10	Just right
+792	New York City	rowing	Week 3	8	Just right
+793	Atlanta	Rowing, Explorer	Week 5	9	Just right
+794	New York City	rowing	Week 3	9	Just right
+795	New York City	Rowing, Explorer	Week 3	1	Way too fast
+796	New York City	rowing	Week 3	9	Just right
+797	New York City	Astrnomy	Week 3	9	Just right
+798	New York City	Rowing, Explorer	Week 3	8	Just right
+799	New York City	Rowing, Explorer	Week 3	8	Just right
+800	New York City	rowing	Week 3	9	A little too slow
+801	New York City	rowing	Week 3	8	Just right
+802	New York City	Astrnomy	Week 3	9	Just right
+803	New York City	rowing	Week 3	8	Just right
+804	New York City	rowing	Week 3	8	Just right
+805	New York City	rowing	Week 3	8	Just right
+806	New York City	rowing	Week 3	9	A little too fast
+807	New York City	rowing	Week 3	3	A little too fast
+808			Week 3	7	A little too fast
+809	New York City	rowing	Week 3	9	A little too fast
+810			Week 3	10	Just right
+811	Redwood City	rowing	Week 5	9	Just right
+812	New York City	Rowing, Explorer	Week 3	10	Just right
+813	New York City	Astrnomy	Week 3	9	Just right
+814	New York City	Rowing, Explorer	Week 3	10	Just right
+815	New York City	rowing	Week 3	6	A little too slow
+816	New York City	Astrnomy	Week 3	6	Just right
+817	New York City	Astrnomy, Explorer	Week 3	9	Just right
+818	New York City	rowing	Week 3	9	Just right
+819	New York City	rowing	Week 3	9	Just right
+820	New York City	rowing	Week 3	8	A little too fast
+821	Atlanta	rowing	Week 5	10	Just right
+822	New York City	rowing	Week 3	7	Just right
+823	New York City	rowing	Week 3	10	Just right
+824	New York City	rowing	Week 3	10	Just right
+825	New York City	rowing	Week 3	6	Just right
+826	New York City	Astrnomy	Week 3	9	Just right
+827	New York City	Astrnomy, Explorer	Week 3	10	Just right
+828	New York City	Astrnomy, Explorer	Week 3	7	Just right
+829	Atlanta	rowing	Week 5	9	Just right
+830	San Francisco	Computer Programing	Week 5	10	Just right
+831	San Francisco	Rowing, Explorer	Week 5	8	Just right
+832	Washington DC	rowing	Week 4	8	Just right
+833	Chicago	rowing	Week 5	9	A little too fast
+834	Chicago	rowing	Week 5	10	Just right
+835	Chicago	rowing	Week 5	9	A little too fast
+836	Chicago	rowing	Week 5	10	A little too fast
+837	Chicago	rowing	Week 5	7	Just right
+838	Chicago	Rowing, Explorer	Week 5	7	A little too fast
+839	Chicago	rowing	Week 5	8	Just right
+840	Chicago	rowing	Week 5	8	Just right
+841	Chicago	rowing	Week 5	9	A little too fast
+842	Chicago	Rowing, Explorer	Week 5	8	Just right
+843	Oakland	rowing	Week 5	8	Just right
+844	Oakland	Rowing, Explorer	Week 5	10	Just right
+845	San Francisco	Computer Programing	Week 5	10	Just right
+846	San Francisco	Computer Programing	Week 5	9	Just right
+847	San Francisco	Computer Programing	Week 5	10	Just right
+848	Los Angeles	rowing	Week 5	10	Just right
+849	Los Angeles	Astrnomy	Week 5	7	A little too slow
+850	Santa Clara	Rowing, Explorer	Week 5	10	A little too fast
+851	Santa Clara	rowing	Week 5	10	Just right
+852	Los Angeles	Astrnomy	Week 5	10	Just right
+853	Los Angeles	rowing	Week 5	10	Just right
+854	Los Angeles	rowing	Week 5	6	A little too slow
+855	Los Angeles	Astrnomy	Week 5	8	Just right
+856	Los Angeles	rowing	Week 5	9	A little too slow
+857	Los Angeles	rowing	Week 5	9	Just right
+858	Santa Clara	rowing	Week 5	9	Just right
+859	San Francisco	Astrnomy	Week 5	9	Just right
+860	San Francisco	Astrnomy	Week 4	9	Just right
+861	San Francisco	Rowing, Explorer	Week 5	8	Just right
+862	San Francisco	rowing	Week 5	9	A little too fast
+863	San Francisco	rowing	Week 5	10	Just right
+864	San Francisco	Astrnomy	Week 5	8	Just right
+865	San Francisco	Astrnomy	Week 5	10	A little too fast
+866	San Francisco	rowing	Week 5	8	Just right
+867	San Francisco	Rowing, Explorer	Week 5	7	Just right
+868	San Francisco	Rowing, Explorer	Week 5	8	Just right
+869	San Francisco	rowing	Week 5	10	Just right
+870	San Francisco	Astrnomy	Week 5	9	A little too fast
+871	San Francisco	Astrnomy	Week 5	10	A little too fast
+872	San Francisco	Rowing, Explorer	Week 5	8	Just right
+873	San Francisco	rowing	Week 5	8	Just right
+874	San Francisco	rowing	Week 5	9	Just right
+875	San Francisco	Astrnomy	Week 5	8	Just right
+876	San Francisco	rowing	Week 5	9	Just right
+877	San Francisco	Astrnomy	Week 5	8	Just right
+878	San Francisco	rowing	Week 5	6	Just right
+879	San Francisco	Rowing, Explorer	Week 5	8	A little too fast
+880	San Francisco	rowing	Week 5	8	Just right
+881			Week 5	9	A little too fast
+882	San Francisco	rowing	Week 5	9	Just right
+883	Oakland	rowing	Week 5	7	Just right
+884	Santa Clara	Astrnomy	Week 5	8	Just right
+885	San Francisco	rowing	Week 5	10	Just right
+886	San Francisco	Astrnomy	Week 5	10	Just right
+887	San Francisco	Rowing, Explorer	Week 5	10	Just right
+888	Santa Clara	rowing	Week 5	7	Just right
+889	San Francisco	rowing	Week 5	6	Just right
+890	San Francisco	rowing	Week 5	6	Just right
+891	Santa Clara	Astrnomy	Week 5	4	Just right
+892	Los Angeles	Astrnomy	Week 5	8	Just right
+893	Los Angeles	rowing	Week 5	8	Just right
+894	San Francisco	Computer Programing	Week 5	10	Just right
+895	Oakland	rowing	Week 5	9	Just right
+896	San Francisco	Astrnomy	Week 5	9	A little too slow
+897	San Francisco	Rowing, Explorer	Week 5	10	Just right
+898	Santa Clara	Astrnomy, Explorer	Week 5	8	Just right
+899	Oakland	rowing	Week 5	7	A little too fast
+900	Santa Clara	rowing	Week 5	7	Just right
+901	Santa Clara	Astrnomy, Explorer	Week 5	9	A little too fast
+902	Santa Clara	Rowing, Explorer	Week 5	5	Just right
+903	Santa Clara	rowing	Week 5	8	Just right
+904	Santa Clara	Rowing, Explorer	Week 5	8	Just right
+905	San Francisco	rowing	Week 5	7	Just right
+906	Santa Clara	rowing	Week 5	9	A little too fast
+907	Santa Clara	Astrnomy	Week 5	8	A little too fast
+908	Santa Clara	Astrnomy	Week 5	9	A little too fast
+909	Santa Clara	Astrnomy	Week 5	10	Just right
+910	San Francisco	Rowing, Explorer	Week 5	8	Just right
+911	Santa Clara	Astrnomy	Week 5	7	A little too fast
+912	Los Angeles	rowing	Week 5	10	Just right
+913	Oakland	rowing	Week 5	10	Just right
+914	Santa Clara	rowing	Week 5	9	A little too fast
+915	Santa Clara	Astrnomy	Week 5	9	Just right
+916	San Francisco	rowing	Week 5	7	A little too fast
+917	Santa Clara	rowing	Week 5	8	Just right
+918	Oakland	rowing	Week 5	9	Just right
+919	San Francisco	rowing	Week 5	9	Just right
+920	San Francisco	Rowing, Explorer	Week 5	10	Just right
+921	San Francisco	Astrnomy	Week 5	10	Just right
+922	New York City	rowing	Week 3	10	Just right
+923	Santa Clara	Astrnomy	Week 5	9	Just right
+924	San Francisco	rowing	Week 5	10	Just right
+925	Washington DC	rowing	Week 4	10	Just right
+926	Oakland	Rowing, Explorer	Week 5	7	Just right
+927	San Francisco	Rowing, Explorer	Week 5	9	Just right
+928	San Francisco	rowing	Week 5	8	A little too fast
+929	Atlanta	Rowing, Explorer	Week 4	10	A little too fast
+930	Redwood City	rowing	Week 5	9	A little too fast
+931	Santa Clara	rowing	Week 5	10	A little too fast
+932	Santa Clara	rowing	Week 5	7	A little too fast
+933	Los Angeles	rowing	Week 5	10	Just right
+934	New York City	Rowing, Explorer	Week 3	7	Just right
+935			Week 3	10	Just right
+936	New York City	rowing	Week 3	7	Just right
+937	New York City	rowing	Week 3	9	Just right
+938	New York City	Astrnomy	Week 3	9	Just right
+939	New York City	rowing	Week 3	8	Just right
+940			Week 3	7	Just right
+941	New York City	rowing	Week 3	8	Just right
+942	Atlanta	Rowing, Explorer	Week 5	10	Just right
+943	Washington DC	rowing	Week 3	6	A little too fast
+944	Santa Clara	rowing	Week 5	9	Just right
+945	Santa Clara	rowing	Week 5	9	Just right
+946	Santa Clara	rowing	Week 5	8	Just right
+947	Santa Clara	rowing	Week 5	8	Just right
+948	Santa Clara	rowing	Week 5	8	A little too fast
+949	San Francisco	rowing	Week 5	7	Just right
+950	New York City	Rowing, Explorer	Week 3	9	Just right
+951	Chicago	Rowing, Explorer	Week 5	10	Just right
+952	New York City	rowing	Week 3	5	A little too slow
+953	San Francisco	Rowing, Explorer	Week 5	10	Just right
+954	Washington DC	Rowing, Explorer	Week 4	10	Just right
+955	Tokyo	rowing	Week 1	4	Way too fast
+956	Beijing	rowing	Week 2	8	Just right
+957	Beijing	rowing	Week 2	10	Just right
+958	Beijing	rowing	Week 2	8	A little too fast
+959			Week 2	9	Just right
+960	Beijing	rowing	Week 2	9	A little too fast
+961	Beijing	rowing	Week 2	9	A little too fast
+962	Beijing	rowing	Week 2	8	Just right
+963	Beijing	rowing	Week 2	7	Just right
+964	Beijing	rowing	Week 2	9	Just right
+965	Beijing	rowing	Week 2	9	A little too slow
+966	Beijing	rowing	Week 2	10	A little too fast
+967	Beijing	rowing	Week 2	9	A little too fast
+968	Beijing	rowing	Week 2	8	Just right
+969	Beijing	rowing	Week 2	10	Just right
+970	Beijing	rowing	Week 2	8	Just right
+971	Beijing	Rowing, Explorer	Week 2	10	Just right
+972	Beijing	rowing	Week 2	9	Just right
+973	Beijing	rowing	Week 2	8	A little too fast
+974	Beijing	rowing	Week 2	8	Just right
+975	Beijing	rowing	Week 2	8	A little too fast
+976	Beijing	rowing	Week 2	9	Just right
+977	Beijing	rowing	Week 2	8	Just right
+978	Beijing	rowing	Week 2	8	A little too fast
+979	Beijing	rowing	Week 2	10	Just right
+980	Beijing	rowing	Week 2	8	Just right
+981	Beijing	rowing	Week 2	10	Just right
+982	Beijing	rowing	Week 2	9	Just right
+983	Beijing	rowing	Week 2	9	A little too fast
+984	Beijing	rowing	Week 2	10	A little too slow
+985	Beijing	rowing	Week 2	10	A little too fast
+986	Beijing	rowing	Week 2	8	A little too fast
+987	Beijing	rowing	Week 2	8	Just right
+988	Beijing	rowing	Week 2	10	Just right
+989	Beijing	rowing	Week 2	9	Just right
+990	Tokyo	rowing	Week 1	9	Just right
+991	Tokyo	rowing	Week 1	4	A little too fast
+992	Tokyo	rowing	Week 1	8	A little too fast
+993	Tokyo	rowing	Week 1	9	Just right
+994	Tokyo	rowing	Week 1	5	A little too fast
+995	Redwood City	rowing	Week 6	7	Just right
+996	San Francisco	Computer Programing	Week 6	9	Just right
+997	San Francisco	Computer Programing	Week 6	10	Just right
+998	Washington DC	rowing	Week 5	7	Just right
+999	Washington DC	rowing	Week 5	10	Just right
+1000	Washington DC	Rowing, Explorer	Week 5	9	A little too fast
+1001	San Francisco	Computer Programing	Week 6	10	Just right
+1002	Redwood City	rowing	Week 6	7	Just right
+1003	Redwood City	rowing	Week 6	10	Just right
+1004	Redwood City	rowing	Week 6	6	Just right
+1005	Redwood City	rowing	Week 6	8	Just right
+1006	Redwood City	rowing	Week 6	9	A little too fast
+1007	Redwood City	rowing	Week 6	9	Just right
+1008	Washington DC	rowing	Week 5	8	A little too slow
+1009	New York City	Astrnomy	Week 4	10	Just right
+1010	New York City	rowing	Week 4	10	A little too slow
+1011	New York City	Astrnomy	Week 4	10	Just right
+1012	New York City	Astrnomy	Week 4	9	A little too slow
+1013	New York City	rowing	Week 4	4	A little too fast
+1014	New York City	rowing	Week 4	8	Just right
+1015	New York City	rowing	Week 4	7	Just right
+1016	New York City	rowing	Week 4	8	Just right
+1017	New York City	rowing	Week 4	8	Just right
+1018	New York City	rowing	Week 4	8	Just right
+1019	New York City	Astrnomy	Week 4	6	Just right
+1020	New York City	rowing	Week 4	8	Just right
+1021	New York City	rowing	Week 4	7	Just right
+1022	New York City	Astrnomy	Week 4	9	Just right
+1023	New York City	rowing	Week 4	9	Just right
+1024	New York City	Rowing, Explorer	Week 4	8	Just right
+1025	New York City	rowing	Week 4	9	Just right
+1026	New York City	rowing	Week 4	10	Just right
+1027	New York City	Rowing, Explorer	Week 4	7	Way too fast
+1028	New York City	rowing	Week 4	9	A little too fast
+1029	New York City	rowing	Week 4	8	Just right
+1030	New York City	Astrnomy	Week 4	10	Just right
+1031	New York City	rowing	Week 4	9	Just right
+1032	New York City	rowing	Week 4	9	Just right
+1033	New York City	Astrnomy, Explorer	Week 4	8	Just right
+1034	New York City	rowing	Week 4	8	Just right
+1035	New York City	Astrnomy, Explorer	Week 4	10	Just right
+1036	New York City	Astrnomy, Explorer	Week 4	10	Just right
+1037	New York City	rowing	Week 4	7	Just right
+1038	Santa Clara	rowing	Week 6	10	A little too fast
+1039	Santa Clara	rowing	Week 6	8	Just right
+1040	Chicago	rowing	Week 6	8	Just right
+1041	Chicago	rowing	Week 6	9	A little too fast
+1042	Chicago	rowing	Week 6	6	Way too fast
+1043	Chicago	rowing	Week 6	10	Just right
+1044	Chicago	Rowing, Explorer	Week 6	7	A little too fast
+1045	Chicago	Rowing, Explorer	Week 6	7	Just right
+1046	New York City	Astrnomy, Explorer	Week 4	9	Just right
+1047	Los Angeles	rowing	Week 6	9	Just right
+1048	Los Angeles	rowing	Week 6	8	Just right
+1049	San Francisco	Astrnomy	Week 6	8	Just right
+1050	San Francisco	Astrnomy	Week 6	8	Just right
+1051	Los Angeles	rowing	Week 6	10	Just right
+1052	San Francisco	Astrnomy	Week 6	10	Just right
+1053	San Francisco	rowing	Week 6	10	A little too fast
+1054	Los Angeles	rowing	Week 6	7	Just right
+1055	Los Angeles	rowing	Week 6	10	Just right
+1056	San Francisco	rowing	Week 6	7	Just right
+1057	San Francisco	Rowing, Explorer	Week 6	9	Just right
+1058	San Francisco	rowing	Week 6	10	Just right
+1059	Los Angeles	rowing	Week 6	10	Just right
+1060	Los Angeles	Astrnomy	Week 6	9	Just right
+1061	Los Angeles	rowing	Week 6	9	Just right
+1062	San Francisco	rowing	Week 6	9	Just right
+1063	San Francisco	Rowing, Explorer	Week 6	8	Just right
+1064	San Francisco	rowing	Week 6	10	Just right
+1065	San Francisco	rowing	Week 6	10	Just right
+1066	San Francisco	Rowing, Explorer	Week 6	8	Just right
+1067	San Francisco	rowing	Week 6	9	Just right
+1068	San Francisco	Computer Programing	Week 6	10	Just right
+1069	San Francisco	rowing	Week 6	8	Just right
+1070	San Francisco	rowing	Week 6	8	A little too slow
+1071	Santa Clara	rowing	Week 6	8	Just right
+1072	Santa Clara	Astrnomy	Week 6	8	Just right
+1073	Santa Clara	Astrnomy	Week 6	7	A little too fast
+1074	Santa Clara	rowing	Week 6	9	Just right
+1075	Santa Clara	rowing	Week 6	9	Just right
+1076	Santa Clara	Rowing, Explorer	Week 6	9	Just right
+1077	Santa Clara	Astrnomy	Week 6	8	Just right
+1078	Santa Clara	Rowing, Explorer	Week 6	5	Just right
+1079	Los Angeles	Astrnomy	Week 6	9	Just right
+1080	San Francisco	rowing	Week 6	10	Just right
+1081	Los Angeles	Astrnomy	Week 6	8	Just right
+1082	Santa Clara	rowing	Week 6	9	A little too fast
+1083	Santa Clara	rowing	Week 6	10	Just right
+1084	Santa Clara	Astrnomy	Week 6	10	Just right
+1085	Santa Clara	Astrnomy	Week 6	10	Just right
+1086	Santa Clara	rowing	Week 6	9	A little too fast
+1087	San Francisco	Rowing, Explorer	Week 6	9	Just right
+1088	Santa Clara	Astrnomy	Week 6	9	Just right
+1089	San Francisco	Computer Programing	Week 6	10	Just right
+1090	Los Angeles	rowing	Week 6	7	Just right
+1091	San Francisco	rowing	Week 6	9	Just right
+1092	Chicago	rowing	Week 6	9	Just right
+1093	New York City	rowing	Week 4	10	Just right
+1094	San Francisco	Rowing, Explorer	Week 6	8	Just right
+1095	San Francisco	rowing	Week 6	7	Just right
+1096	San Francisco	rowing	Week 6	8	Just right
+1097	Oakland	rowing	Week 6	9	Just right
+1098	San Francisco	Astrnomy	Week 6	9	Just right
+1099	Tokyo	rowing	Week 1	10	Just right
+1100	Santa Clara	rowing	Week 6	8	Just right
+1101	Santa Clara	rowing	Week 6	7	A little too fast
+1102			Week 1	9	Just right
+1103	Tokyo	rowing	Week 1	9	Just right
+1104			Week 1	9	Just right
+1105	Tokyo	rowing	Week 1	8	A little too slow
+1106			Week 1	8	Just right
+1107	Tokyo	rowing	Week 1	10	A little too fast
+1108			Week 1	9	A little too fast
+1109	San Francisco	rowing	Week 6	8	Just right
+1110	New York City	rowing	Week 4	5	Just right
+1111	Tokyo	rowing	Week 1	9	Just right
+1112			Week 1	10	Just right
+1113	Tokyo	rowing	Week 1	8	Just right
+1114	Tokyo	rowing	Week 1	4	A little too slow
+1115	Tokyo	rowing	Week 1	7	Just right
+1116	Tokyo	rowing	Week 1	7	A little too fast
+1117	San Francisco	rowing	Week 6	2	A little too fast
+1118	Tokyo	rowing	Week 1	10	Just right
+1119	Tokyo	rowing	Week 1	10	Just right
+1120			Week 1	9	Just right
+1121			Week 2	10	Just right
+1122	Tokyo	rowing	Week 1	8	A little too fast
+1123	Los Angeles	rowing	Week 6	8	Just right
+1124	Tokyo	rowing	Week 1	8	Just right
+1125	Tokyo	rowing	Week 1	8	A little too fast
+1126	Tokyo	rowing	Week 1	10	Just right
+1127	Tokyo	rowing	Week 1	10	Just right
+1128	Tokyo	rowing	Week 1	7	A little too fast
+1129	Tokyo	rowing	Week 1	10	Just right
+1130	Tokyo	rowing	Week 1	10	Just right
+1131	Tokyo	rowing	Week 1	8	Just right
+1132	New York City	Rowing, Explorer	Week 4	5	A little too fast
+1133	New York City	rowing	Week 4	10	Just right
+1134	New York City	rowing	Week 4	8	Just right
+1135	New York City	Rowing, Explorer	Week 4	8	Just right
+1136	New York City	rowing	Week 4	5	Just right
+1137	New York City	Rowing, Explorer	Week 4	8	Just right
+1138	New York City	Astrnomy	Week 4	9	Just right
+1139	New York City	Rowing, Explorer	Week 4	8	A little too fast
+1140			Week 4	7	Just right
+1141			Week 4	10	Just right
+1142	New York City	Rowing, Explorer	Week 4	10	Just right
+1143	New York City	rowing	Week 4	9	Just right
+1144	New York City	rowing	Week 4	6	A little too fast
+1145	Chicago	Rowing, Explorer	Week 6	9	A little too fast
+1146	New York City	rowing	Week 4	9	Just right
+1147	New York City	rowing	Week 4	10	Just right
+1148	Chicago	rowing	Week 6	10	A little too fast
+1149	Chicago	rowing	Week 6	9	Just right
+1150	Santa Clara	rowing	Week 6	10	Just right
+1151	Santa Clara	Astrnomy, Explorer	Week 6	8	Just right
+1152	Santa Clara	Rowing, Explorer	Week 6	10	Just right
+1153	Oakland	Rowing, Explorer	Week 6	10	Just right
+1154	Oakland	rowing	Week 6	9	Just right
+1155	Santa Clara	Astrnomy, Explorer	Week 6	10	A little too fast
+1156	Oakland	rowing	Week 6	9	Just right
+1157			Week 4	7	Way too slow
+1158	San Francisco	rowing	Week 6	3	Just right
+1159	Santa Clara	rowing	Week 6	9	Just right
+1160	Santa Clara	rowing	Week 6	8	Just right
+1161	Santa Clara	rowing	Week 6	10	Just right
+1162	Tokyo	rowing	Week 1	10	A little too fast
+1163	New York City	rowing	Week 4	6	Just right
+1164	New York City	Astrnomy	Week 4	9	Just right
+1165	Santa Clara	rowing	Week 6	8	Just right
+1166	Santa Clara	Rowing, Explorer	Week 6	8	Just right
+1167	San Francisco	Rowing, Explorer	Week 6	9	Just right
+1168	Tokyo	rowing	Week 2	10	Just right
+1169	Tokyo	rowing	Week 2	7	A little too fast
+1170	Tokyo	rowing	Week 2	8	A little too fast
+1171	Tokyo	rowing	Week 2	6	Just right
+1172	Tokyo	rowing	Week 2	9	Just right
+1173	Tokyo	rowing	Week 2	10	Just right
+1174	Tokyo	rowing	Week 2	7	Just right
+1175	Tokyo	rowing	Week 2	10	Just right
+1176	Tokyo	rowing	Week 2	9	A little too fast
+1177	Tokyo	rowing	Week 2	3	A little too fast
+1178			Week 2	7	A little too fast
+1179	Tokyo	rowing	Week 2	6	A little too fast
+1180	Tokyo	rowing	Week 2	9	Just right
+1181	Tokyo	rowing	Week 2	10	Just right
+1182	Tokyo	rowing	Week 2	10	Just right
+1183	Tokyo	rowing	Week 2	10	A little too slow
+1184	Tokyo	rowing	Week 2	8	A little too fast
+1185	Tokyo	rowing	Week 2	7	A little too fast
+1186	Tokyo	rowing	Week 2	10	Just right
+1187			Week 2	10	Way too fast
+1188	Tokyo	rowing	Week 2	7	Just right
+1189			Week 3	10	Just right
+1190	Tokyo	rowing	Week 2	8	A little too fast
+1191	Tokyo	rowing	Week 2	7	Just right
+1192	Tokyo	rowing	Week 2	8	A little too fast
+1193	Tokyo	rowing	Week 2	10	A little too fast
+1194	Tokyo	rowing	Week 2	7	Way too fast
+1195	Tokyo	rowing	Week 2	5	Just right
+1196	Tokyo	rowing	Week 2	10	Just right
+1197	San Francisco	Computer Programing	Week 7	7	A little too fast
+1198	San Francisco	Computer Programing	Week 7	10	Just right
+1199	San Francisco	Computer Programing	Week 7	10	A little too fast
+1200	San Francisco	Computer Programing	Week 7	8	Just right
+1201	San Francisco	Computer Programing	Week 7	10	Just right
+1202	San Francisco	Computer Programing	Week 7	10	Just right
+1203	San Francisco	Computer Programing	Week 7	9	Just right
+1204	Washington DC	Rowing, Explorer	Week 6	8	A little too fast
+1205	Washington DC	rowing	Week 6	8	Just right
+1206	Washington DC	rowing	Week 6	9	A little too slow
+1207	Washington DC	Rowing, Explorer	Week 6	7	Just right
+1208	Washington DC	Rowing, Explorer	Week 6	7	A little too fast
+1209	New York City	Astrnomy	Week 5	10	Just right
+1210	New York City	rowing	Week 5	10	Just right
+1211	New York City	rowing	Week 5	7	Just right
+1212	New York City	Astrnomy	Week 5	10	Just right
+1213	New York City	Astrnomy	Week 5	9	Just right
+1214	New York City	rowing	Week 5	9	Just right
+1215	New York City	rowing	Week 5	0	A little too fast
+1216	New York City	rowing	Week 5	8	Just right
+1217	New York City	Astrnomy, Explorer	Week 5	10	Just right
+1218	New York City	Rowing, Explorer	Week 5	8	A little too fast
+1219	New York City	Astrnomy, Explorer	Week 5	10	Just right
+1220	New York City	rowing	Week 5	9	Just right
+1221	New York City	rowing	Week 5	8	Just right
+1222	New York City	rowing	Week 5	8	Just right
+1223	New York City	rowing	Week 4	7	Just right
+1224	New York City	Astrnomy	Week 5	9	Just right
+1225	New York City	Astrnomy	Week 5	10	Just right
+1226	New York City	rowing	Week 5	10	Just right
+1227	New York City	rowing	Week 5	7	Just right
+1228	New York City	rowing	Week 5	10	Just right
+1229	New York City	Rowing, Explorer	Week 5	4	Just right
+1230	New York City	Rowing, Explorer	Week 5	6	A little too fast
+1231	New York City	Rowing, Explorer	Week 5	8	Just right
+1232	New York City	Astrnomy	Week 5	9	Just right
+1233	New York City	Rowing, Explorer	Week 5	10	Just right
+1234	New York City	rowing	Week 5	5	Just right
+1235			Week 5	10	Just right
+1236	New York City	rowing	Week 5	7	Just right
+1237	New York City	rowing	Week 5	8	Just right
+1238	New York City	Astrnomy, Explorer	Week 5	8	Just right
+1239	New York City	Astrnomy	Week 5	10	Just right
+1240	New York City	rowing	Week 5	5	Just right
+1241	New York City	Astrnomy, Explorer	Week 5	10	Just right
+1242	New York City	rowing	Week 5	10	Just right
+1243	New York City	Rowing, Explorer	Week 5	8	Just right
+1244	Chicago	rowing	Week 7	9	A little too fast
+1245	Chicago	rowing	Week 6	7	Just right
+1246	Chicago	Rowing, Explorer	Week 5	8	Just right
+1247	Chicago	rowing	Week 7	8	A little too fast
+1248	Chicago	rowing	Week 7	10	Just right
+1249	Chicago	rowing	Week 7	9	Just right
+1250	Chicago	rowing	Week 7	10	Just right
+1251	Chicago	rowing	Week 7	9	Just right
+1252	Oakland	rowing	Week 7	9	Just right
+1253	Chicago	rowing	Week 7	9	Just right
+1254	Chicago	Rowing, Explorer	Week 7	7	Just right
+1255	Oakland	rowing	Week 7	9	Just right
+1256	Redwood City	rowing	Week 7	8	Just right
+1257	Oakland	rowing	Week 7	7	A little too fast
+1258	Los Angeles	rowing	Week 7	10	Just right
+1259	Los Angeles	rowing	Week 7	8	Just right
+1260	Los Angeles	Astrnomy	Week 7	7	A little too fast
+1261	Los Angeles	rowing	Week 7	9	Just right
+1262	Los Angeles	Astrnomy	Week 7	10	Just right
+1263	Santa Clara	Astrnomy	Week 7	10	Just right
+1264	San Francisco	rowing	Week 7	9	Just right
+1265	San Francisco	rowing	Week 7	10	Just right
+1266	San Francisco	rowing	Week 7	10	Just right
+1267	San Francisco	Rowing, Explorer	Week 7	9	Just right
+1268	San Francisco	rowing	Week 7	9	Just right
+1269	Santa Clara	rowing	Week 7	10	Just right
+1270	Santa Clara	rowing	Week 7	9	Just right
+1271	Santa Clara	rowing	Week 7	7	A little too fast
+1272	Santa Clara	rowing	Week 7	9	Just right
+1273	Santa Clara	rowing	Week 7	8	Way too fast
+1274	Santa Clara	Rowing, Explorer	Week 7	9	Just right
+1275	San Francisco	rowing	Week 7	7	Just right
+1276	Santa Clara	rowing	Week 7	10	Just right
+1277	Santa Clara	Rowing, Explorer	Week 7	7	Just right
+1278	Santa Clara	Astrnomy	Week 7	8	Just right
+1279	Los Angeles	rowing	Week 7	10	Just right
+1280	San Francisco	rowing	Week 7	9	Just right
+1281	Santa Clara	rowing	Week 7	9	Just right
+1282	Santa Clara	rowing	Week 7	9	Just right
+1283	Santa Clara	rowing	Week 7	7	Just right
+1284	Santa Clara	rowing	Week 7	9	A little too fast
+1285	Santa Clara	rowing	Week 7	8	Just right
+1286	Santa Clara	Astrnomy	Week 7	10	Just right
+1287	Santa Clara	Astrnomy	Week 7	5	Just right
+1288	San Francisco	rowing	Week 7	7	Just right
+1289	San Francisco	rowing	Week 7	5	Just right
+1290	Los Angeles	rowing	Week 7	9	Just right
+1291	San Francisco	rowing	Week 7	9	Just right
+1292	Los Angeles	rowing	Week 7	6	Just right
+1293	San Francisco	Rowing, Explorer	Week 7	10	Just right
+1294	Santa Clara	rowing	Week 7	9	Just right
+1295	San Francisco	rowing	Week 7	6	Just right
+1296	San Francisco	rowing	Week 7	10	Just right
+1297	Los Angeles	rowing	Week 7	9	Just right
+1298	San Francisco	rowing	Week 7	9	Just right
+1299	Los Angeles	Astrnomy	Week 7	9	Just right
+1300	San Francisco	Rowing, Explorer	Week 7	9	Just right
+1301	Los Angeles	Astrnomy	Week 7	8	Just right
+1302	San Francisco	rowing	Week 7	8	Just right
+1303	San Francisco	rowing	Week 7	8	Just right
+1304	Santa Clara	Astrnomy	Week 7	10	Just right
+1305	Santa Clara	rowing	Week 7	8	A little too fast
+1306	San Francisco	Astrnomy	Week 7	9	A little too slow
+1307	San Francisco	rowing	Week 7	10	Just right
+1308	San Francisco	rowing	Week 7	10	Just right
+1309	San Francisco	Rowing, Explorer	Week 7	10	Just right
+1310			Week 2	#ERROR!	
+1311	New York City	rowing	Week 5	2	Just right
+1312	San Francisco	rowing	Week 7	10	Just right
+1313	Beijing	rowing	Week 3	10	Just right
+1314	Oakland	rowing	Week 6	8	A little too fast
+1315	New York City	rowing	Week 5	8	Just right
+1316	San Francisco	rowing	Week 7	10	Just right
+1317	Oakland	rowing	Week 7	8	Just right
+1318	Beijing	rowing	Week 3	8	A little too fast
+1319	Beijing	rowing	Week 3	10	Just right
+1320	Beijing	rowing	Week 3	10	Just right
+1321	Beijing	rowing	Week 3	10	Just right
+1322			Week 3	#ERROR!	
+1323	New York City	Astrnomy	Week 5	8	Just right
+1324	Tokyo	rowing	Week 2	10	A little too slow
+1325	Santa Clara	rowing	Week 7	9	Just right
+1326	Santa Clara	rowing	Week 7	9	Just right
+1327	Beijing	rowing	Week 3	10	Just right
+1328	New York City	Astrnomy	Week 5	9	Just right
+1329	New York City	rowing	Week 5	9	Just right
+1330	Tokyo	rowing	Week 2	7	A little too slow
+1331	New York City	rowing	Week 5	7	Just right
+1332	New York City	rowing	Week 5	8	Just right
+1333	New York City	rowing	Week 5	7	Just right
+1334	New York City	rowing	Week 5	9	Just right
+1335			Week 5	5	Just right
+1336	New York City	rowing	Week 5	9	Way too fast
+1337	Beijing	rowing	Week 3	9	Just right
+1338	New York City	Rowing, Explorer	Week 5	9	Just right
+1339	New York City	rowing	Week 5	6	A little too slow
+1340			Week 2	10	Just right
+1341	Santa Clara	Astrnomy, Explorer	Week 7	8	Just right
+1342	Santa Clara	Rowing, Explorer	Week 7	9	A little too fast
+1343	San Francisco	rowing	Week 7	10	Just right
+1344	Los Angeles	rowing	Week 7	9	Just right
+1345	San Francisco	rowing	Week 7	8	Just right
+1346	Los Angeles	rowing	Week 7	9	A little too fast
+1347	New York City	rowing	Week 5	6	Just right
+1348	New York City	rowing	Week 5	9	Just right
+1349	San Francisco	Astrnomy	Week 7	9	Just right
+1350	Oakland	rowing	Week 7	9	Just right
+1351	San Francisco	Rowing, Explorer	Week 7	7	Just right
+1352	Tokyo	rowing	Week 3	6	Just right
+1353	Tokyo	rowing	Week 3	9	A little too fast
+1354	San Francisco	Computer Programing	Week 8	10	Just right
+1355	New York City	rowing	Week 6	9	Just right
+1356	New York City	rowing	Week 6	6	Just right
+1357	New York City	rowing	Week 6	8	Just right
+1358	New York City	rowing	Week 6	10	Just right
+1359	New York City	Rowing, Explorer	Week 6	8	Just right
+1360	New York City	rowing	Week 6	7	Just right
+1361	New York City	Astrnomy	Week 6	10	Just right
+1362	New York City	rowing	Week 6	10	Just right
+1363	New York City	rowing	Week 6	7	A little too fast
+1364	New York City	Astrnomy	Week 6	10	Just right
+1365	New York City	rowing	Week 6	9	Just right
+1366	New York City	Astrnomy, Explorer	Week 6	10	Just right
+1367	New York City	Astrnomy	Week 6	8	Just right
+1368	New York City	rowing	Week 6	8	Just right
+1369	New York City	Astrnomy	Week 6	10	Just right
+1370	New York City	rowing	Week 6	8	Just right
+1371	New York City	rowing	Week 6	8	Just right
+1372	New York City	rowing	Week 6	10	Just right
+1373	New York City	Astrnomy	Week 6	10	Just right
+1374	New York City	Astrnomy	Week 6	10	Just right
+1375	New York City	rowing	Week 6	8	Just right
+1376	New York City	rowing	Week 6	6	Way too fast
+1377	New York City	Astrnomy	Week 6	9	Just right
+1378	New York City	rowing	Week 6	8	Just right
+1379	New York City	rowing	Week 6	10	Just right
+1380	New York City	rowing	Week 6	8	Just right
+1381	New York City	rowing	Week 6	8	A little too fast
+1382	New York City	rowing	Week 6	9	Just right
+1383	New York City	Astrnomy, Explorer	Week 6	10	Just right
+1384	New York City	Astrnomy	Week 6	10	Just right
+1385	New York City	rowing	Week 6	8	A little too fast
+1386	New York City	Rowing, Explorer	Week 6	7	A little too fast
+1387	New York City	rowing	Week 6	6	Just right
+1388	New York City	Astrnomy, Explorer	Week 6	7	Just right
+1389	New York City	Rowing, Explorer	Week 6	10	Just right
+1390	New York City	Rowing, Explorer	Week 6	8	Just right
+1391	New York City	rowing	Week 6	7	A little too fast
+1392	New York City	Astrnomy, Explorer	Week 6	10	Just right
+1393	New York City	rowing	Week 6	8	Just right
+1394	New York City	rowing	Week 6	9	Just right
+1395	Los Angeles	Astrnomy	Week 8	7	Way too fast
+1396	Los Angeles	rowing	Week 8	9	Just right
+1397	Los Angeles	Astrnomy	Week 8	9	Just right
+1398	Los Angeles	rowing	Week 8	10	Just right
+1399	Los Angeles	Astrnomy	Week 8	9	A little too slow
+1400	Los Angeles	rowing	Week 8	10	Just right
+1401	Tokyo	rowing	Week 3	9	A little too fast
+1402	Tokyo	rowing	Week 3	10	Just right
+1403	Tokyo	rowing	Week 3	10	Just right
+1404	New York City	Rowing, Explorer	Week 6	8	Just right
+1405			Week 7	7	Just right
+1406	New York City	Rowing, Explorer	Week 6	10	Just right
+1407	Washington DC	Rowing, Explorer	Week 7	5	Just right
+1408	New York City	rowing	Week 6	8	Just right
+1409	New York City	rowing	Week 6	10	Just right
+1410			Week 6	10	Just right
+1411			Week 3	#ERROR!	
+1412	Tokyo	rowing	Week 3	9	Just right
+1413	Tokyo	rowing	Week 3	9	A little too fast
+1414	New York City	rowing	Week 6	10	Just right
+1415	Los Angeles	rowing	Week 8	10	A little too fast
+1416	Tokyo	rowing	Week 3	10	Just right
+1417	Tokyo	rowing	Week 3	8	Just right
+1418	Los Angeles	Astrnomy	Week 8	8	A little too slow
+1419	Tokyo	rowing	Week 3	8	Just right
+1420	New York City	Astrnomy	Week 7	10	Just right
+1421	New York City	Astrnomy, Explorer	Week 7	10	Just right
+1422	New York City	Astrnomy	Week 7	10	A little too fast
+1423	New York City	Astrnomy	Week 7	10	Just right
+1424	New York City	rowing	Week 7	8	Just right
+1425	New York City	Astrnomy	Week 7	9	Just right
+1426	New York City	Astrnomy, Explorer	Week 7	10	Just right
+1427	New York City	Astrnomy	Week 7	9	Just right
+1428	New York City	rowing	Week 7	9	Just right
+1429	New York City	rowing	Week 7	8	A little too fast
+1430	New York City	Astrnomy	Week 7	10	Just right
+1431	New York City	rowing	Week 7	10	Just right
+1432	New York City	Astrnomy	Week 7	9	Just right
+1433	New York City	rowing	Week 7	9	Just right
+1434	New York City	rowing	Week 7	10	Just right
+1435	New York City	rowing	Week 7	8	Just right
+1436	New York City	rowing	Week 7	7	A little too fast
+1437	New York City	Rowing, Explorer	Week 7	7	Way too fast
+1438	New York City	rowing	Week 7	7	Just right
+1439	New York City	rowing	Week 7	9	Just right
+1440	New York City	rowing	Week 7	8	Just right
+1441	New York City	Astrnomy, Explorer	Week 7	7	Just right
+1442	New York City	Rowing, Explorer	Week 7	10	Just right
+1443	New York City	Rowing, Explorer	Week 7	10	Just right
+1444	New York City	Astrnomy	Week 7	9	A little too fast
+1445	New York City	rowing	Week 7	9	Just right
+1446	New York City	rowing	Week 7	3	Just right
+1447	New York City	Astrnomy, Explorer	Week 7	10	Just right
+1448	New York City	Rowing, Explorer	Week 7	10	Just right
+1449	New York City	Rowing, Explorer	Week 7	8	Just right
+1450	New York City	rowing	Week 7	10	Just right
+1451	New York City	Rowing, Explorer	Week 7	1	A little too slow
+1452	New York City	rowing	Week 5	8	Just right
