@@ -1,29 +1,29 @@
-	Timestamp	What Marrit Badge?	How would you rate your satisfaction with the Break Camp this week?	How well is the program paced?
-0	7/1/2016 6:41:31	Rowing	3	2
-1	7/1/2016 9:27:32	Rowing	3	4
-2	7/1/2016 6:46:34	Astrnomy	3	5
-3	7/1/2016 6:47:56	Astrnomy	3	3
-4	7/1/2016 6:33:45	Rowing	4	3
-5	7/1/2016 6:35:15	Rowing	4	4
-6	7/1/2016 6:36:41	Rowing	4	3
-7	7/1/2016 6:41:43	Rowing	4	3
-8	7/1/2016 7:00:39	Rowing	4	2
-9	7/1/2016 8:58:54	Rowing	4	4
-10	7/1/2016 10:32:25	Rowing	4	3
-11	7/1/2016 6:30:49	Astrnomy	4	4
-12	7/1/2016 6:43:54	Astrnomy	4	4
-13	7/1/2016 7:02:22	Astrnomy	4	4
-14	7/1/2016 6:27:37	Intro Rowing	4	3
-15	7/1/2016 6:31:09	Intro Rowing	4	3
-16	7/1/2016 6:31:31	Intro Rowing	4	4
-17	7/1/2016 6:46:33	Intro Rowing	4	3
-18	7/1/2016 6:27:51	Rowing	5	3
-19	7/1/2016 6:30:01	Rowing	5	3
-20	7/1/2016 6:30:05	Rowing	5	3
-21	7/1/2016 6:33:55	Rowing	5	4
-22	7/1/2016 6:36:10	Rowing	5	3
-23	7/1/2016 6:41:54	Rowing	5	4
-24	7/1/2016 6:27:48	Astrnomy	5	4
-25	7/1/2016 6:31:02	Intro Rowing	5	3
-26	7/1/2016 6:31:12	Intro Rowing	5	3
-27	7/1/2016 6:36:15	Intro Rowing	5	3
+,no_name,Timestamp,merit badge,rateing,pace,week_num,location
+0,0,7/1/2016 6:41:31,rowing,3,2,2,NY
+1,1,7/1/2016 9:27:32,rowing,3,4,2,NY
+2,2,7/1/2016 6:46:34,astronomy,3,5,2,NY
+3,3,7/1/2016 6:47:56,astronomy,3,3,2,NY
+4,4,7/1/2016 6:33:45,rowing,4,3,2,NY
+5,5,7/1/2016 6:35:15,rowing,4,4,2,NY
+6,6,7/1/2016 6:36:41,rowing,4,3,2,NY
+7,7,7/1/2016 6:41:43,rowing,4,3,2,NY
+8,8,7/1/2016 7:00:39,rowing,4,2,2,NY
+9,9,7/1/2016 8:58:54,rowing,4,4,2,NY
+10,10,7/1/2016 10:32:25,rowing,4,3,2,NY
+11,11,7/1/2016 6:30:49,astronomy,4,4,2,NY
+12,12,7/1/2016 6:43:54,astronomy,4,4,2,NY
+13,13,7/1/2016 7:02:22,astronomy,4,4,2,NY
+14,14,7/1/2016 6:27:37,rowing,4,3,2,NY
+15,15,7/1/2016 6:31:09,rowing,4,3,2,NY
+16,16,7/1/2016 6:31:31,rowing,4,4,2,NY
+17,17,7/1/2016 6:46:33,rowing,4,3,2,NY
+18,18,7/1/2016 6:27:51,rowing,5,3,2,NY
+19,19,7/1/2016 6:30:01,rowing,5,3,2,NY
+20,20,7/1/2016 6:30:05,rowing,5,3,2,NY
+21,21,7/1/2016 6:33:55,rowing,5,4,2,NY
+22,22,7/1/2016 6:36:10,rowing,5,3,2,NY
+23,23,7/1/2016 6:41:54,rowing,5,4,2,NY
+24,24,7/1/2016 6:27:48,astronomy,5,4,2,NY
+25,25,7/1/2016 6:31:02,rowing,5,3,2,NY
+26,26,7/1/2016 6:31:12,rowing,5,3,2,NY
+27,27,7/1/2016 6:36:15,rowing,5,3,2,NY
